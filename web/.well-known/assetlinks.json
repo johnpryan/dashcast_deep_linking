@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "net.dashcast.dashcast_deep_linking",
-    "sha256_cert_fingerprints": ["hash_of_app_certificate"] }
+    "sha256_cert_fingerprints": ["B9:83:8C:AA:9A:69:C0:AF:E3:C0:C3:9E:B3:C9:94:88:15:23:08:C3:81:39:04:A1:88:66:40:9B:F2:53:60:6A"] }
 }]
